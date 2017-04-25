@@ -1,0 +1,25 @@
+{
+  "name": "react-native-xloading",
+  "version": "0.1.0",
+  "description": "Simple loading overlay for React Native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufyildirim/react-native-xloading.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "loading",
+    "overlay"
+  ],
+  "author": "Yusuf YILDIRIM <yusuf@puroduction.com> (http://www.puroduction.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yusufyildirim/react-native-xloading/issues"
+  },
+  "homepage": "https://github.com/yusufyildirim/react-native-xloading#readme"
+}
