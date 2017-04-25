@@ -1,6 +1,6 @@
 {
   "name": "react-native-xloading",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Simple loading overlay for React Native apps",
   "main": "index.js",
   "scripts": {
